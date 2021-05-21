@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import SearchForm from "./SearchForm";
 import Results from "./Results";
-import EmployeeContext from "../utils/employeeContext";
 import API from "../utils/API";
 
 // Get 'employees' to fill out the results container
