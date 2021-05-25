@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "image": "https://thumbs.gfycat.com/LonelyObviousCowrie-max-1mb.gif",
+      "name": "Michael Scott",
+      "role": "Regional Manager",
+      "email": "thatswhatshesaid@dundermifflin.com"
+    },
+    {
+      "id": 2,
+      "image": "https://i.pinimg.com/originals/fd/82/09/fd820967450532a093d23f8adb66d2c6.gif",
+      "name": "Dwight K. Schrute",
+      "role": "Assistant to the Regional Manager",
+      "email": "volunteerdeputyandkaratesenpai@dundermifflin.com"
+    },
+    {
+      "id": 3,
+      "image": "https://media.tenor.com/images/93810ce2a21d533ec23788d4143374d6/tenor.gif",
+      "name": "Jim Halpert",
+      "role": "Sales",
+      "email": "bigtuna@dundermifflin.com"
+    },
+    {
+      "id": 4,
+      "name": "Pam Beesly",
+      "image": "https://media0.giphy.com/media/8ozmNq7zPnKRW8QyfZ/200w.gif?cid=82a1493b6e7ydt28yfygfnreq7fric0c22kvriqgzdvowc06&rid=200w.gif&ct=g",
+      "role": "Receptionist",
+      "email": "coalwalkqueen@dundermifflin.com"
+    },
+    {
+      "id": 5,
+      "name": "Angela Martin",
+      "image": "https://media.tenor.com/images/7c73d3e843f284c74dcb4b0df7c6247b/tenor.gif",
+      "role": "Head of Accounting",
+      "email": "ilovecats@dundermifflin.com"
+    },
+    {
+      "id": 6,
+      "name": "Oscar Martinez",
+      "image": "https://media1.giphy.com/media/BcMJvmwkmbyWpKkBj3/giphy.gif",
+      "role": "Accountant",
+      "email": "actually@dundermifflin.com"
+    },
+    {
+      "id": 7,
+      "name": "Kevin Malone",
+      "image": "https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1b12b68-1c87-4218-8b62-1eab647f3fe3_480x400.gif",
+      "role": "Accountant",
+      "email": "shesaidiwasdull@dundermifflin.com"
+    },
+    {
+      "id": 8,
+      "name": "Phyllis Vance",
+      "image": "https://media4.giphy.com/media/KG7HDHngquucXtpNww/200w.gif?cid=82a1493bb89mp47a69ozgrhww4t33c3h2j7uja0pda3hn3r5&rid=200w.gif&ct=g",
+      "role": "Sales",
+      "email": "ofvancerefrigeration@dundermifflin.com"
+    },
+    {
+      "id": 9,
+      "name": "Stanley Hudson",
+      "image": "https://media1.tenor.com/images/9e6226cea15ff06e3c72d22fa9659aa1/tenor.gif?itemid=8231733",
+      "role": "Sales",
+      "email": "didistutter@dundermifflin.com"
+    },
+    {
+      "id": 10,
+      "name": "Meredith Palmer",
+      "image": "https://media4.giphy.com/media/PD47lthXroH15344jr/200w.gif?cid=82a1493b5plrghnj2pn8gcm6giqn5p1ebozouml58q31h0yj&rid=200w.gif&ct=g",
+      "role": "Supplier Relations",
+      "email": "shutupangela@dundermifflin.com"
+    },
+    {
+      "id": 11,
+      "name": "Creed Bratton",
+      "image": "https://media1.giphy.com/media/yBwcx562kZ2FWlYb2A/200.gif",
+      "role": "Quality Assurance",
+      "email": "issomeonemakingsoup@dundermifflin.com"
+    },
+    {
+      "id": 12,
+      "name": "Kelly Kapoor",
+      "image": "https://i.pinimg.com/originals/ff/c0/52/ffc052feed2a4e1dfe319985a4d40e91.gif",
+      "role": "Customer Service Representative",
+      "email": "ilookreallygoodinwhite@dundermifflin.com"
+    },
+    {
+      "id": 13,
+      "name": "Toby Flenderson",
+      "image": "https://media3.giphy.com/media/HjKG2nRz7NOv6ch12D/giphy.gif",
+      "role": "Human Resources",
+      "email": "costaricanbeachbum@dundermifflin.com"
+    },
+    {
+      "id": 14,
+      "name": "Darryl Philbin",
+      "image": "http://www.reactiongifs.com/r/2012/12/darryl-drunk2.gif",
+      "role": "Warehouse Foreman",
+      "email": "ibangedher@dundermifflin.com"
+    },
+    {
+      "id": 15,
+      "name": "Roy Anderson",
+      "image": "https://media4.giphy.com/media/rjbSdCx9SEKEYZI6GQ/200w.gif?cid=82a1493b1q8ldmiv5gzocljdsm6owuscj3mfwsg5mxt88vby&rid=200w.gif&ct=g",
+      "role": "Warehouse",
+      "email": "youreallgay@dundermifflin.com"
+    },
+    {
+      "id": 16,
+      "name": "Jan Levinson",
+      "image": "https://78.media.tumblr.com/18c9afc7ca93b1e57add653c4c0dd2b0/tumblr_oy33z4HZ5y1t3xsyyo5_400.gif",
+      "role": "Human Resources",
+      "email": "serenitybyjan@dundermifflin.com"
+    }
+  ]

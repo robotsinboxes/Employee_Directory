@@ -1,0 +1,15 @@
+#searchText {
+    font-family: 'Padauk', sans-serif;
+    color:black;
+}
+
+.searchBar {
+    padding:10px;
+    text-align: right;
+    font-size: 22px;
+}
+
+#searchBox {
+    margin-left: 40px;
+}
+
